@@ -91,6 +91,7 @@
 } 
 #a11
 {
+    display:inline-block;
     color: rgb(33, 95, 25);
     position: relative;
     left: 470px;  
